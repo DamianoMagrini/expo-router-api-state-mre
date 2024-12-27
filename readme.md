@@ -1,4 +1,4 @@
-# Expo router API state MRE
+# Expo Router API state MRE
 
 Inconsistent behavior.
 
